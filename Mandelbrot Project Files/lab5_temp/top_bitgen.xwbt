@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Raghu Velagala\Documents\ProjectISE\lab5_temp\top.ncd
+OUTFILE=C:\Users\Raghu Velagala\Documents\ProjectISE\lab5_temp\top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\Raghu Velagala\Documents\ProjectISE\lab5_temp
+LICENSE=WebPack
+USER_INFO=210863720_0_0_064

@@ -1,0 +1,518 @@
+ISim log file
+Running: C:\Users\Raghu Velagala\Documents\ProjectISE\lab5_temp\circ_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb_isim_beh.wdb 
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Stopped at time : 0 fs : File "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb.vhd" Line 82
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+ERROR:Portability:3 - This Xilinx application has run out of memory or has
+   encountered a memory conflict.  Current memory usage is 5928972 kb.  You can
+   try increasing your system's physical or virtual memory.  If you are using a
+   Win32 system, you can increase your application memory from 2GB to 3GB using
+   the /3G switch in your boot.ini file. For more information on this, please
+   refer to Xilinx Answer Record #14932. For technical support on this issue,
+   please visit http://www.xilinx.com/support. 
+The simulator has terminated in an unexpected manner.  Please review the ISim log (isim.log) for details.
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+# step
+Stopped at time : 1010 ns : File "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb.vhd" Line 72
+# step
+Stopped at time : 1010 ns : File "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/clock.vhd" Line 45
+# step
+Stopped at time : 1010 ns : File "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/clock.vhd" Line 48
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 10 ns, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 10 ns(1), Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 30 ns, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 30 ns(1), Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+ISim P.68d (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/CLK_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/font_unit/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/PROGBAR_COMP/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+Finished circuit initialization process.
+at 0 ps, Instance /circ_tb/uut/DATAPATH_COMP/ : Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+at 0 ps, Instance /circ_tb/uut/TEXT_OBJ/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /circ_tb/uut/MAN_GRAPH_OBJ/ : Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE

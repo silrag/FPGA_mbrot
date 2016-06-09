@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb_isim_beh.exe" -prj "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb_beh.prj" "work.circ_tb" 

@@ -1,0 +1,8 @@
+vhdl isim_temp "font_rom.vhd"
+vhdl isim_temp "text.vhd"
+vhdl isim_temp "RAM.vhd"
+vhdl isim_temp "man_graph.vhd"
+vhdl isim_temp "Datapath.vhd"
+vhdl isim_temp "Controller.vhd"
+vhdl isim_temp "pix_circ.vhd"
+vhdl isim_temp "circ_tb.vhd"

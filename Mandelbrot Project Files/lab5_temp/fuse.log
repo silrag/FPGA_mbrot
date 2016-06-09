@@ -1,0 +1,38 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb_isim_beh.exe" -prj "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb_beh.prj" "work.circ_tb" 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/font_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/text.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/RAM.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/progbar.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/man_graph.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/Datapath.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/Controller.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/clock.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/pix_circ.vhd" into library work
+Parsing VHDL file "C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:746 - "N:/P.68d/rtf/vhdl/src/ieee/numeric_std.vhd" Line 3314: Range is empty (null range)
+WARNING:HDLCompiler:220 - "N:/P.68d/rtf/vhdl/src/ieee/numeric_std.vhd" Line 3314: Assignment ignored
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity clock [clock_default]
+Compiling architecture behavioral of entity RAM [ram_default]
+Compiling architecture behavioral of entity Datapath [datapath_default]
+Compiling architecture behavioral of entity Controller [controller_default]
+Compiling architecture arch of entity font_rom [font_rom_default]
+Compiling architecture arch of entity text [text_default]
+Compiling architecture behavioral of entity man_graph [\man_graph(9,0,9,0)\]
+Compiling architecture behavioral of entity progbar [\progbar(9,0,9,0)\]
+Compiling architecture sq_ball_arch of entity pong_graph_st [pong_graph_st_default]
+Compiling architecture behavior of entity circ_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 22 VHDL Units
+Built simulation executable C:/Users/Raghu Velagala/Documents/ProjectISE/lab5_temp/circ_tb_isim_beh.exe
+Fuse Memory Usage: 35648 KB
+Fuse CPU Usage: 1077 ms

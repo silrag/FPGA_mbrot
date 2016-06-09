@@ -1,0 +1,7 @@
+work	"Controller.vhd"
+work	"Datapath.vhd"
+work	"RAM.vhd"
+work	"font_rom.vhd"
+work	"man_graph.vhd"
+work	"pix_circ.vhd"
+work	"text.vhd"

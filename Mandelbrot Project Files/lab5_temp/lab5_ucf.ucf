@@ -1,0 +1,30 @@
+#=========================
+# Nexys-3 ucf declaration
+#=========================
+
+#Clock
+NET "clk"        LOC = "V10";
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
+
+#NET "reset"          LOC = "T5"  | IOSTANDARD = "LVCMOS33";   #Bank = MISC, Pin name = IO_L48N_RDWR_B_VREF_2,          Sch name = SW7
+
+#VGA
+NET "rgb<2>"    LOC = "N7"  | IOSTANDARD = "LVCMOS33";   # Bank = 2, Pin name = IO_L44P,                          Sch name = RED2
+NET "rgb<1>"    LOC = "V6"  | IOSTANDARD = "LVCMOS33";   # Bank = 2, Pin name = IO_L45N,                          Sch name = GRN2
+NET "rgb<0>"    LOC = "T7"  | IOSTANDARD = "LVCMOS33";   # Bank = 2, Pin name = IO_L46P,                          Sch name = BLU1
+
+NET "hsync"     LOC = "N6"  | IOSTANDARD = "LVCMOS33";   # Bank = 2, Pin name = IO_L47P,                          Sch name = HSYNC 
+NET "vsync"     LOC = "P7"  | IOSTANDARD = "LVCMOS33";   # Bank = 2, Pin name = IO_L47N,                          Sch name = VSYNC
+
+# Switches
+NET "sw<0>"          LOC = "T10" | IOSTANDARD = "LVCMOS33";   #Bank = 2, Pin name = IO_L29N_GCLK2,                     Sch name = SW0
+NET "sw<1>"          LOC = "T9"  | IOSTANDARD = "LVCMOS33";   #Bank = 2, Pin name = IO_L32P_GCLK29,                    Sch name = SW1
+NET "sw<2>"          LOC = "V9"  | IOSTANDARD = "LVCMOS33";   #Bank = 2, Pin name = IO_L32N_GCLK28,                    Sch name = SW2
+NET "sw<3>"          LOC = "M8"  | IOSTANDARD = "LVCMOS33";   #Bank = 2, Pin name = IO_L40P,                           Sch name = SW3
+NET "sw<4>"          LOC = "N8"  | IOSTANDARD = "LVCMOS33";   #Bank = 2, Pin name = IO_L40N,                           Sch name = SW4
+NET "sw<5>"          LOC = "U8"  | IOSTANDARD = "LVCMOS33";   #Bank = 2, Pin name = IO_L41P,                           Sch name = SW5
+NET "sw<6>"          LOC = "V8"  | IOSTANDARD = "LVCMOS33";   #Bank = 2, Pin name = IO_L41N_VREF,                      Sch name = SW6
+NET "sw<7>"          LOC = "T5"  | IOSTANDARD = "LVCMOS33";   #Bank = MISC, Pin name = IO_L48N_RDWR_B_VREF_2,          Sch name = SW7
+
+#btn
+NET "btn"         LOC = "B8"  | IOSTANDARD = "LVCMOS33";   #Bank = 0, Pin name = IO_L33P,                           Sch name = BTNS
